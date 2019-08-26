@@ -48,3 +48,7 @@ install.packages("prophet")
 # handled in this image's Dockerfile.
 install.packages("fftw")
 install.packages("seewave")
+
+#26/08/2019 Another important quant instrumental for financial analysis. https://github.com/braverock/quantstrat
+install_github("braverock/blotter")
+install_github("braverock/quantstrat")

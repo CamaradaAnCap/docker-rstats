@@ -48,3 +48,6 @@ install.packages("prophet")
 # handled in this image's Dockerfile.
 install.packages("fftw")
 install.packages("seewave")
+
+#26/08/2019 PortfolioAnalytics request, already checked as working package. Thanks!
+install_github("https://github.com/R-Finance/PortfolioAnalytics.git")
